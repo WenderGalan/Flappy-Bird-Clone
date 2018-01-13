@@ -1,4 +1,4 @@
-package com.wendergalan.flappybird;
+package com.wendergalan.flappybirdclonewender;
 
 import android.os.Bundle;
 
